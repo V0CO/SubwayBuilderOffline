@@ -1,2 +1,2 @@
 # SubwayBuilderOffline
-Tool to download map tiles for Subway Builder game. subwaybuilder.com
+Tool to download map tiles for Subway Builder game.
